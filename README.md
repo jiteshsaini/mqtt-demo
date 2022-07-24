@@ -1,4 +1,10 @@
-# MQTT Network - Raspberry Pi & ESP32 Microcontrollers
+# MQTT Network for data Exchange - Raspberry Pi & ESP32 Microcontrollers
+
+<p align="left">
+Read the :- <a href='https://helloworld.co.in/article/mqtt-raspberry-pi-esp32' target='_blank'>
+   complete article here.
+</a> 
+</p>
 
 The code for this project is created to demonstrate data exchange mechanism between Raspberry Pi & ESP32 Microcontrollers using MQTT network. 
 In a MQTT network, the communication between devices takes place using a Publish & Subscribe mechanism. Messages can be published on a specific topic by a device. 
