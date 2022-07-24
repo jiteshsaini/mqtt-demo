@@ -20,6 +20,8 @@ This file subscribe to all the 03 topics (one as mentioned above and other two t
 ### esp32_clients (ESP 32 code)
 This folder contains the C code written in Arduino IDE for 02 ESP32 microcontrollers.
 The code for both the ESP32 is completely identical. The only difference in the two codes is the name of the client and the topic to which it publishes.
+Both the ESPs do the publish & subscribe simultneously. One ESP publishes to the topic 'esp/sensor1' and the other publishes to 'esp/sensor2'. 
+They both subscribe to 'rpi/broadcast' and receive data from this topic.
 
 ## The Information Flow
 
