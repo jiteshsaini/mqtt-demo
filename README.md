@@ -4,6 +4,11 @@
 Read the :- <a href='https://helloworld.co.in/article/mqtt-raspberry-pi-esp32' target='_blank'>
    complete article here.
 </a> 
+Watch Video :- <a href='https://youtu.be/ebsXSCKsHeQ' target='_blank'>
+   on Youtube.
+</a> 
+
+
 </p>
 
 The code for this project is created to demonstrate data exchange mechanism between Raspberry Pi & ESP32 Microcontrollers using MQTT network. 
